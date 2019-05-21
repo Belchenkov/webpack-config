@@ -1,3 +1,3 @@
-# Webpack Config
+# Webpack 4 Config
 
-### Settings webpack (Babel, TypeScript, Sass)
+### Settings webpack4 (Babel, TypeScript, Sass)
