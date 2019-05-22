@@ -1,1 +1,2 @@
-console.log('header Component');
+import $ from 'jquery';
+
